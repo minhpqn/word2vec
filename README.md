@@ -6,7 +6,7 @@ This tool provides an efficient implementation of the continuous bag-of-words an
 
 ## Quick start
 
-- Download the code: git clone https://github.com/minhpqn/word2vec
+- Download the code: ```git clone https://github.com/minhpqn/word2vec```
 - Run 'make' to compile word2vec tool
 - Run the demo scripts: ./demo-word.sh and ./demo-phrases.sh
 - For questions about the toolkit, see [http://groups.google.com/group/word2vec-toolkit](http://groups.google.com/group/word2vec-toolkit)
