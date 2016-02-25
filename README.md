@@ -154,18 +154,13 @@ Thank you for trying out this toolkit, and do not forget to let us know when you
 
 Feel free to send us a link to your project or research paper related to word2vec that you think will be useful or interesting for the others.
 
-*Tomas Mikolov, Quoc V. Le and Ilya Sutskever*. [Exploiting Similarities among Languages for Machine Translation](http://arxiv.org/pdf/1309.4168). We show how the word vectors can be applied to machine translation. Code for improved version from Georgiana Dinu here.
+- *Tomas Mikolov, Quoc V. Le and Ilya Sutskever*. [Exploiting Similarities among Languages for Machine Translation](http://arxiv.org/pdf/1309.4168). We show how the word vectors can be applied to machine translation. Code for improved version from Georgiana Dinu here.
+- *Word2vec in Python by Radim Rehurek* in [gensim](http://radimrehurek.com/2013/09/deep-learning-with-word2vec-and-gensim/) (plus [tutorial](http://radimrehurek.com/2014/02/word2vec-tutorial/) and [demo](http://radimrehurek.com/2014/02/word2vec-tutorial/#app) that uses the above model trained on Google News).
+- Word2vec in Java as part of the [deeplearning4j](http://deeplearning4j.org/word2vec.html) project. Another Java version from Medallia [here](https://github.com/medallia/Word2VecJava).
+- Word2vec implementation in [Spark MLlib](https://spark.apache.org/docs/latest/mllib-feature-extraction.html#word2vec).
+- Comparison with traditional count-based vectors and cbow model trained on a different corpus by [CIMEC UNITN](http://clic.cimec.unitn.it/composes/semantic-vectors.html).
+- Link to slides about word vectors from NIPS 2013 Deep Learning Workshop: [NNforText.pdf](https://drive.google.com/file/d/0B7XkCwpI5KDYRWRnd1RzWXQ2TWc/edit?usp=sharing)
 
-*Word2vec in Python by Radim Rehurek* in [gensim](http://radimrehurek.com/2013/09/deep-learning-with-word2vec-and-gensim/) (plus [tutorial](http://radimrehurek.com/2014/02/word2vec-tutorial/) and [demo](http://radimrehurek.com/2014/02/word2vec-tutorial/#app) that uses the above model trained on Google News).
-
-Word2vec in Java as part of the [deeplearning4j](http://deeplearning4j.org/word2vec.html) project. Another Java version from Medallia [here](https://github.com/medallia/Word2VecJava).
-
-Word2vec implementation in [Spark MLlib](https://spark.apache.org/docs/latest/mllib-feature-extraction.html#word2vec).
-
-Comparison with traditional count-based vectors and cbow model trained on a different corpus by [CIMEC UNITN](http://clic.cimec.unitn.it/composes/semantic-vectors.html).
-
-Link to slides about word vectors from NIPS 2013 Deep Learning Workshop: [NNforText.pdf](https://drive.google.com/file/d/0B7XkCwpI5KDYRWRnd1RzWXQ2TWc/edit?usp=sharing)
-
-Disclaimer
+## Disclaimer
 
 This open source project is NOT a Google product, and is released for research purposes only.
